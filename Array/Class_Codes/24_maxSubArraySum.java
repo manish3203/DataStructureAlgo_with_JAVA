@@ -36,3 +36,10 @@ class Solution {
 		System.out.println("Sum using kadane's algorithm : "+maxSum);
 	}
 }
+
+/*
+
+   Time Complexity : O(N)
+   Space Complexity : O(1)
+
+*/
